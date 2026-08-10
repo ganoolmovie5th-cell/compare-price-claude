@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "iphone-16-pro-max-256gb",
+    "name": "iPhone 16 Pro Max 256GB",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=400&q=80",
+    "category": "Elektronik",
+    "prices": [
+      { "platform": "tokopedia", "price": 21999000, "url": "https://tokopedia.com", "store": "iBox Official", "available": true },
+      { "platform": "shopee", "price": 22199000, "url": "https://shopee.co.id", "store": "iBox Official Store", "available": true },
+      { "platform": "tiktok", "price": 21899000, "url": "https://tiktok.com/shop", "store": "iBox Official", "available": true },
+      { "platform": "lazada", "price": 22499000, "url": "https://lazada.co.id", "store": "iBox Official Store", "available": true },
+      { "platform": "blibli", "price": 21999000, "url": "https://blibli.com", "store": "iBox Official Store", "available": true }
+    ],
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "slug": "airpods-pro-2",
+    "name": "Apple AirPods Pro 2 (USB-C)",
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=400&q=80",
+    "category": "Elektronik",
+    "prices": [
+      { "platform": "tokopedia", "price": 3799000, "url": "https://tokopedia.com", "store": "iBox Official", "available": true },
+      { "platform": "shopee", "price": 3699000, "url": "https://shopee.co.id", "store": "iBox Official Store", "available": true },
+      { "platform": "tiktok", "price": 3749000, "url": "https://tiktok.com/shop", "store": "iBox Official", "available": true },
+      { "platform": "lazada", "price": 3899000, "url": "https://lazada.co.id", "store": "iBox Official Store", "available": true },
+      { "platform": "blibli", "price": 3799000, "url": "https://blibli.com", "store": "iBox Official Store", "available": true }
+    ],
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "slug": "samsung-galaxy-s25-ultra",
+    "name": "Samsung Galaxy S25 Ultra 256GB",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400&q=80",
+    "category": "Elektronik",
+    "prices": [
+      { "platform": "tokopedia", "price": 19999000, "url": "https://tokopedia.com", "store": "Samsung Official", "available": true },
+      { "platform": "shopee", "price": 19899000, "url": "https://shopee.co.id", "store": "Samsung Official Store", "available": true },
+      { "platform": "tiktok", "price": 19799000, "url": "https://tiktok.com/shop", "store": "Samsung Official", "available": true },
+      { "platform": "lazada", "price": 20199000, "url": "https://lazada.co.id", "store": "Samsung Official", "available": true },
+      { "platform": "blibli", "price": 19999000, "url": "https://blibli.com", "store": "Samsung Official Store", "available": true }
+    ],
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "slug": "nike-air-force-1-07",
+    "name": "Nike Air Force 1 '07",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80",
+    "category": "Fashion",
+    "prices": [
+      { "platform": "tokopedia", "price": 1549000, "url": "https://tokopedia.com", "store": "Nike Official", "available": true },
+      { "platform": "shopee", "price": 1499000, "url": "https://shopee.co.id", "store": "Nike Official Store", "available": true },
+      { "platform": "tiktok", "price": 1529000, "url": "https://tiktok.com/shop", "store": "Nike Official", "available": true },
+      { "platform": "lazada", "price": 1549000, "url": "https://lazada.co.id", "store": "Nike Official Store", "available": true },
+      { "platform": "blibli", "price": 1549000, "url": "https://blibli.com", "store": "Nike Official Store", "available": true }
+    ],
+    "updatedAt": "2026-08-10"
+  },
+  {
+    "slug": "somethinc-niacinamide-serum",
+    "name": "Somethinc Niacinamide + Moisture Beet Serum 40ml",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400&q=80",
+    "category": "Beauty",
+    "prices": [
+      { "platform": "tokopedia", "price": 89000, "url": "https://tokopedia.com", "store": "Somethinc Official", "available": true },
+      { "platform": "shopee", "price": 85000, "url": "https://shopee.co.id", "store": "Somethinc Official", "available": true },
+      { "platform": "tiktok", "price": 82000, "url": "https://tiktok.com/shop", "store": "Somethinc Official", "available": true },
+      { "platform": "lazada", "price": 89000, "url": "https://lazada.co.id", "store": "Somethinc Official", "available": true },
+      { "platform": "blibli", "price": 89000, "url": "https://blibli.com", "store": "Somethinc Official", "available": true }
+    ],
+    "updatedAt": "2026-08-10"
+  }
+]
