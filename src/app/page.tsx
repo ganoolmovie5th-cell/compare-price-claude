@@ -77,7 +77,7 @@ export default function Home() {
                       <span
                         key={p.platform}
                         className="text-[10px] font-semibold px-2 py-0.5 rounded-full text-white"
-                        style={{ backgroundColor: p.price === cheapest ? '#16A34A' : platformColors[p.platform] + '80' }}
+                        style={{ backgroundColor: p.price === cheapest ? '#16A34A' : platformColors[p.platform] }}
                       >
                         {platformNames[p.platform]} {formatPrice(p.price)}
                       </span>
@@ -89,12 +89,12 @@ export default function Home() {
                   )}
 
                   <a
-                    href={product.prices.sort((a, b) => a.price - b.price)[0].url}
+                    href={product.prices.filter(p => p.available).sort((a, b) => a.price - b.price)[0].url}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full flex items-center justify-center gap-2 py-2.5 bg-best text-white font-semibold text-sm rounded-xl hover:bg-best/90 transition-colors cursor-pointer"
                   >
-                    Beli Termurah <ExternalLink size={14} />
+                    Beli di {platformNames[product.prices.filter(p => p.available).sort((a, b) => a.price - b.price)[0].platform]} <ExternalLink size={14} />
                   </a>
                 </div>
               </div>

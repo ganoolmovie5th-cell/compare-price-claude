@@ -18,7 +18,7 @@ export interface Product {
 export const platformColors: Record<string, string> = {
   tokopedia: '#42B549',
   shopee: '#EE4D2D',
-  tiktok: '#000000',
+  tiktok: '#010101',
   lazada: '#0F146D',
   blibli: '#0095DA',
 }
